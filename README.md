@@ -2,6 +2,8 @@
 
 Try it in Codesandbox: https://codesandbox.io/embed/shw32z?view=Editor+%2B+Preview&module=%2Fsrc%2Fstyles.css
 
+There is a better version of this project in Memorize repo. Take a look!
+
 Welcome, 
 
 this interactive web application is designed to test your java skills.
